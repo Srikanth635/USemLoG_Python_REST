@@ -1,0 +1,3 @@
+ Learn to perform task by natural instruction methods, natural language instructions, 2023-05-26 12:20:21.200206 2023-05-26 12:20:26.080206
+ gestures, pointing and gazing. 2023-05-26 12:20:26.580206 2023-05-26 12:20:28.060206
+ Stop it. 2023-05-26 12:20:29.100206 2023-05-26 12:20:30.100206
