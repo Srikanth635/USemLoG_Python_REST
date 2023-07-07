@@ -1,0 +1,2 @@
+sentence:  And so my fellow Americans ask not what your country can do for you, system_start_time: 2023-06-01 15:08:58.596038 system_end_time: 2023-06-01 15:09:06.196038 UNIX_start_time: 1685624938.0 UNIX_start_time: 1685624946.0
+sentence:  ask what you can do for your country. system_start_time: 2023-06-01 15:09:06.196038 system_end_time: 2023-06-01 15:09:35.196038 UNIX_start_time: 1685624946.0 UNIX_start_time: 1685624975.0
